@@ -1,0 +1,28 @@
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png",Cartoon Network US
+http://fortv.cc:8080/FuboTuco1/Fubo@Tuco1/46708
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png",Cartoon Network UK
+http://fortv.cc:8080/FuboTuco1/Fubo@Tuco1/53719
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png",Cartoon Network Canada
+http://fortv.cc:8080/FuboTuco1/Fubo@Tuco1/57380
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Boomerang_2000_Favicon.svg/revision/latest/scale-to-width-down/250?cb=20160522194014",Boomerang US
+http://fortv.cc:8080/FuboTuco1/Fubo@Tuco1/14741
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Boomerang_2000_Favicon.svg/revision/latest/scale-to-width-down/250?cb=20160522194014",Boomerang UK
+http://fortv.cc:8080/FuboTuco1/Fubo@Tuco1/53718
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon US
+http://fortv.cc:8080/FuboTuco1/Fubo@Tuco1/38
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon UK
+http://fortv.cc:8080/FuboTuco1/Fubo@Tuco1/53728
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon CA
+http://fortv.cc:8080/FuboTuco1/Fubo@Tuco1/47349
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png",NickToons US
+http://fortv.cc:8080/FuboTuco1/Fubo@Tuco1/36
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cd3c7e70-c2ee-4a06-b574-afb2523d6b19/de6st5z-9e2db0f4-88f4-4393-a756-982d5a10893d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NkM2M3ZTcwLWMyZWUtNGEwNi1iNTc0LWFmYjI1MjNkNmIxOVwvZGU2c3Q1ei05ZTJkYjBmNC04OGY0LTQzOTMtYTc1Ni05ODJkNWExMDg5M2QucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PK_ByXam1tj2EIGLvvlwqRyhUQd43jWQ2Pn2QAezPZ0",Disney Channel US
+http://fortv.cc:8080/FuboTuco1/Fubo@Tuco1/2206
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/CBBC_%282023%29.svg/1920px-CBBC_%282023%29.svg.png",CBBC UK
+http://fortv.cc:8080/FuboTuco1/Fubo@Tuco1/53720
+#EXTINF:-1 tvg-logo="https://static.telewebion.com/channelsLogo/Y2U2NGUwOTYxMjczYzIwNjQwNDEzMzI0YTY0OWRlYjQ2NTU4NjYyYzg5MjIwOWZkZTUyOGE1ZmRiNjMwZjA4ZA/default",Pooya & Nahal
+http://185.165.41.14:9981/stream/channelid/447994490?profile=pass
+#EXTINF:-1 tvg-logo="https://persianagroup.tv/assets/images/tv/Persiana%20Junior.png",Persiana Junior
+http://51.210.199.18/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://persianagroup.tv/assets/images/tv/Persiana%20Junior.png",Persiana Junior",Gem Junior
+https://hd.90minlive.online/live/gemjunior/chunks.m3u8
